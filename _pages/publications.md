@@ -7,10 +7,6 @@ author_profile: true
 
 Please [email me](mailto:jianfengli@hkbu.edu.hk) if you require a copy of the paper but have difficulty finding them. 
 
-# Book Chapters
-
-
-# Journal Articles
 1. Kong, D., Gu, X., **Li, J.**, Ren, G., & Liu, J. (2020). Contributions of Global Warming and Urbanization to the Intensification of Human‐Perceived Heatwaves Over China. *Journal of Geophysical Research: Atmospheres*, 125(18). [link](https://doi.org/10.1029/2019JD032175)
 2. Zhou, Q., & **Li, J.** (2020). Geo-Spatial Analysis in Hydrology. *ISPRS International Journal of Geo-Information*, 9(7), 435–. [link](https://doi.org/10.3390/ijgi9070435)
 3. Gu, X., Zhang, Q., **Li, J.**, Chen, D., Singh, V. P., Zhang, Y., Liu, J., Shen, Z., & Yu, H. (2020). Impacts of anthropogenic warming and uneven regional socio-economic development on global river flood risk. *Journal of Hydrology (Amsterdam)*, 590, 125262–. [link](https://doi.org/10.1016/j.jhydrol.2020.125262)
@@ -32,5 +28,3 @@ Please [email me](mailto:jianfengli@hkbu.edu.hk) if you require a copy of the pa
 19. **Li, J.**, Chen, Y. D., Gan, T. Y., & Lau, N.-C. (2018). Elevated increases in human-perceived temperature under climate warming. *Nature Climate Change*, 8(1), 43–47. [link](https://doi.org/10.1038/s41558-017-0036-2)
 20. Zhang, Q., Gu, X., **Li, J.**, Shi, P., & Singh, V. P. (2018). The Impact of Tropical Cyclones on Extreme Precipitation over Coastal and Inland Areas of China and Its Association to ENSO. *Journal of Climate*, 31(5), 1865–1880. [link](https://doi.org/10.1175/JCLI-D-17-0474.1)
 21. Liu, J., Zhang, Q., Zhang, Y., Chen, X., **Li, J.**, & Aryal, S. K. (2017). Deducing Climatic Elasticity to Assess Projected Climate Change Impacts on Streamflow Change across China. *Journal of Geophysical Research: Atmospheres*, 122(19), 10,228–10,245. [link](https://doi.org/10.1002/2017JD026701)
-
-# Conference Papers

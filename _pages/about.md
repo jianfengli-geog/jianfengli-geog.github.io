@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+## About Me
 Jianfeng Li is an Associate Professor at [the Department of Geography, Hong Kong Baptist University](https://geog.hkbu.edu.hk/). His work mainly attempts to understand and model the evolution of hydro-climatological extremes and evaluate their impacts at different spatial-temporal scales by applying serval statistical, geospatial, and numerical tools and techniques. His research outputs have been published in peer-reviewed top journals, including Nature Climate Change (IF=20.893) and PNAS (IF=9.412). In addition, he is the Director of [the Centre for Geo-computation Studies](http://cgs.hkbu.edu.hk/), which aims to develop inter-institutional collaboration, knowledge sharing and joint research student education for facilitating advanced geo-computation and spatial analysis on their scientific principles as well as the implementation in related software research and engineering. 
 
 

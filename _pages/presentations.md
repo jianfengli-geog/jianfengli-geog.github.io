@@ -9,14 +9,17 @@ toc: true
 1. Hong Kong Geography Day, 21 November 2020, Hong Kong.
 * **Slowdown of tropical cyclones and its impacts on local rainfall total over the coast of China.**
 
-2. European Geoscience Union 2019 Congress (EGU2019), 7 – 12 April, Vienna.
-* **Global hydrological drought measurement using  GRACE terrestrial water storage deficit.**
+2. European Geoscience Union 2019 Congress (EGU2019), 7-12 April 2019, Vienna.
+* **Global hydrological drought measurement using GRACE terrestrial water storage deficit.**
 
-Cui, A., Li, J., Zhou, Q.*, Wu, G., Li, Q., 2019, Hydrological droughts measurement using GRACE satellite solution, paper presented at the 27th International Conference on Geoinformatics, 1-3 July, Sydney.
+3. The 27th International Conference on Geoinformatics, 1-3 July 2019, Sydney.
+* **Hydrological droughts measurement using GRACE satellite solution.**
 
-Cui, A., Li, J., Zhou, Q., Wu, G., Li, Q., 2019, Global hydrological drought measurement using GRACE terrestrial water storage deficit, in Proceedings of the International Geoscience and Remote Sensing Symposium 2019 (IGARSS 2019), 28 July – 2 August, Yokohama. [EI]
+4. The International Geoscience and Remote Sensing Symposium 2019 (IGARSS 2019), 28 July-2 August 2019, Yokohama.
+* **Global hydrological drought measurement using GRACE terrestrial water storage deficit.**
 
-Cui, A., Li, J., Zhou, Q., Wu, G., Li, Q., 2019, Water cycle reaction to climate change in Central Asia during 2003-2016, paper presented at the International Conference on “Dynamics of Water Resources in Central Asia and Their Environmental Effect”, 26 August – 2 September, Bishkek, Kyrgyzstan.
+5. The International Conference on “Dynamics of Water Resources in Central Asia and Their Environmental Effect”, 26 August–2 September 2019, Bishkek, Kyrgyzstan.
+* **Water cycle reaction to climate change in Central Asia during 2003-2016.**
 
 Li, J., Chen, Y.D., Gu, X., 2019, Changes in Surface Soil Moisture and Water Availability Simulated by Various Models: Consistency and Discrepancy. 16th Annual Meeting of Asia Oceania Geosciences Society, Singapore.
 

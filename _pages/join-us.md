@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Join Us"
+title: ""
 permalink: /join-us/
 author_profile: true
 toc: true

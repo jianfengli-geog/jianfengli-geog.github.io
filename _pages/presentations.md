@@ -6,9 +6,11 @@ author_profile: true
 toc: true
 ---
 
-Li, J., (2020), Slowdown of tropical cyclones and its impacts on local rainfall total over the coast of China. Hong Kong Geography Day, Hong Kong, Nov 2020
+1. Hong Kong Geography Day, 21 November 2020, Hong Kong.
+* Slowdown of tropical cyclones and its impacts on local rainfall total over the coast of China. 
 
-Cui, A., Li, J., Zhou, Q., Wu, G., Li, Q., 2019, Global hydrological drought measurement using  GRACE terrestrial water storage deficit, paper presented at European Geoscience Union 2019 Congress (EGU2019), Session HS4.1.1/NH1.31 – Drought and water scarcity: monitoring, modelling and forecasting to improve hydro-meteorological risk management, 7 – 12 April, Vienna.
+2. European Geoscience Union 2019 Congress (EGU2019), 7 – 12 April, Vienna.
+* Global hydrological drought measurement using  GRACE terrestrial water storage deficit.
 
 Cui, A., Li, J., Zhou, Q.*, Wu, G., Li, Q., 2019, Hydrological droughts measurement using GRACE satellite solution, paper presented at the 27th International Conference on Geoinformatics, 1-3 July, Sydney.
 

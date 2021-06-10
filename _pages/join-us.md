@@ -13,6 +13,7 @@ Applicants who majored in Geography, Earth Science, Environmental Science, Compu
 
 If you are interested in working with us, please send us an [email](mailto:jianfengli@hkbu.edu.hk).
 
-In the email, please
-* (1) attach a CV,
-* (2) attach your Master (if any) and Undergraduate transcripts (with ranking, if applicable).
+In the email, please attach your
+* motivation letter;
+* CV; and
+* Master (if any) and Undergraduate transcripts (with ranking, if applicable).

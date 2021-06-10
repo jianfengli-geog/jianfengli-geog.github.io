@@ -7,9 +7,17 @@ toc: true
 ---
 
 ## On-going Projects
-Li Jianfeng, Co-I. Assessment of climate change impacts on extreme storms for flood prevention in Chinese cities in different climatic zones. National Natural Science Foundation of China, General Program, National Natural Science Foundation of China, 1/2021-12/2024, RMB550,000
+1. Co-I. Assessment of climate change impacts on extreme storms for flood prevention in Chinese cities in different climatic zones. 
+* Co-Investigator
+* National Natural Science Foundation of China
+* 1/2021-12/2024
+* RMB550,000
 
-Li Jianfeng, PI. Temporal evolution of sub-daily precipitation extremes in Hong Kong: Dependency on temperature and implications to flash floods. General Research Fund, Research Grants Council of Hong Kong, 1/2021-12/2023, HKD656,864
+2. Temporal evolution of sub-daily precipitation extremes in Hong Kong: Dependency on temperature and implications to flash floods. 
+* Principle Investigator
+* Research Grants Council of Hong Kong
+* 1/2021-12/2023
+* HKD656,864
 
 Li Jianfeng, Co-I. Risk management and response for extreme weather and climate hazard chains in the Guangdong-Hong Kong-Macau Greater Bay Area. National Key R&D Program of China “Monitoring, Warning and Prevention of Major Natural Hazards”, 1/2020-12/2023, RMB13,960,000
 

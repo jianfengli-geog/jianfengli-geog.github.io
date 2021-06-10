@@ -42,6 +42,7 @@ Gu, X., **J. Li**, Y.D. Chen, D. Kong, and J. Liu (2019), Consistency and Discre
 
 **Li, J.**, Q. Zhang, Y. D. Chen, and V. P. Singh (2013), GCMs-based spatiotemporal evolution of climate extremes during the 21st century in China. *Journal of Geophysical Research: Atmospheres*, 118(19), 11,017–11,035. [link](https://doi.org/10.1002/jgrd.50851)
 
+## We are now seeking passionate Research Postgraduate students to join our group and department![Read More](https://jianfengli-geog.github.io/join-us/)
 
 ## For more information
 More info about Jianfeng Li can be found in [CV]() or [downloaded CV]().

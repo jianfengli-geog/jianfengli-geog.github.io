@@ -10,8 +10,8 @@ introxxx.
 
 
 # PhD Students
-## Main Supervisor
+<b>Main Supervisor:</b>
 * Miss Lai Yangchen, co-supervision with xxx (month, year to present). Research keywords: Hydroclimatology, Climate Extremes, Water Hazards
 
-## Co-supervisor
+<b>Co-supervisor:</b>
 * Mr. xxx, co-supervision with xxxx (month, year to present). Research keywords: xxx

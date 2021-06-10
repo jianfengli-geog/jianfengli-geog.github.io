@@ -7,10 +7,10 @@ toc: true
 ---
 
 1. Hong Kong Geography Day, 21 November 2020, Hong Kong.
-* Slowdown of tropical cyclones and its impacts on local rainfall total over the coast of China. 
+* **Slowdown of tropical cyclones and its impacts on local rainfall total over the coast of China.**
 
 2. European Geoscience Union 2019 Congress (EGU2019), 7 – 12 April, Vienna.
-* Global hydrological drought measurement using  GRACE terrestrial water storage deficit.
+* **Global hydrological drought measurement using  GRACE terrestrial water storage deficit.**
 
 Cui, A., Li, J., Zhou, Q.*, Wu, G., Li, Q., 2019, Hydrological droughts measurement using GRACE satellite solution, paper presented at the 27th International Conference on Geoinformatics, 1-3 July, Sydney.
 

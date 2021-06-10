@@ -11,7 +11,7 @@ Please [email me](mailto:jianfengli@hkbu.edu.hk) if you require a copy of the pa
 
 
 # Journal Articles
-1. Kong, D., Gu, X., **Li, J.**, Ren, G., & Liu, J. (2020). Contributions of Global Warming and Urbanization to the Intensification of Human‐Perceived Heatwaves Over China. *Journal of Geophysical Research. Atmospheres*, 125(18). [link](https://doi.org/10.1029/2019JD032175)
+1. Kong, D., Gu, X., **Li, J.**, Ren, G., & Liu, J. (2020). Contributions of Global Warming and Urbanization to the Intensification of Human‐Perceived Heatwaves Over China. *Journal of Geophysical Research: Atmospheres*, 125(18). [link](https://doi.org/10.1029/2019JD032175)
 2. Zhou, Q., & **Li, J.** (2020). Geo-Spatial Analysis in Hydrology. *ISPRS International Journal of Geo-Information*, 9(7), 435–. [link](https://doi.org/10.3390/ijgi9070435)
 3. Gu, X., Zhang, Q., **Li, J.**, Chen, D., Singh, V. P., Zhang, Y., Liu, J., Shen, Z., & Yu, H. (2020). Impacts of anthropogenic warming and uneven regional socio-economic development on global river flood risk. *Journal of Hydrology (Amsterdam)*, 590, 125262–. [link](https://doi.org/10.1016/j.jhydrol.2020.125262)
 4. Lai, Y., **Li, J.**, Gu, X., Chen, Y. D., Kong, D., Gan, T. Y., Liu, M., Li, Q., & Wu, G. (2020). Greater flood risks in response to slowdown of tropical cyclones over the coast of China. *Proceedings of the National Academy of Sciences - PNAS*, 117(26), 14751–14755. [link](https://doi.org/10.1073/pnas.1918987117)
@@ -26,5 +26,11 @@ Please [email me](mailto:jianfengli@hkbu.edu.hk) if you require a copy of the pa
 13. Gu, X., Zhang, Q., **Li, J.**, Singh, V. P., Liu, J., Sun, P., & Cheng, C. (2019). Attribution of Global Soil Moisture Drying to Human Activities: A Quantitative Viewpoint. *Geophysical Research Letters*, 46(5), 2573–2582. [link](https://doi.org/10.1029/2018GL080768)
 14. Gu, X., **Li, J.**, Chen, Y. D., Kong, D., & Liu, J. (2019). Consistency and Discrepancy of Global Surface Soil Moisture Changes From Multiple Model‐Based Data Sets Against Satellite Observations. *Journal of Geophysical Research: Atmospheres*, 124(3), 1474–1495. [link](https://doi.org/10.1029/2018JD029304)
 15. Gu, X., Zhang, Q., Singh, V. P., Song, C., Sun, P., & **Li, J.** (2019). Potential contributions of climate change and urbanization to precipitation trends across China at national, regional and local scales. *International Journal of Climatology*, 39(6), 2998–3012. [link](https://doi.org/10.1002/joc.5997)
+16. Sun, P., Wen, Q., Zhang, Q., Singh, V. P., Sun, Y., & **Li, J.** (2018). Nonstationarity-based evaluation of flood frequency and flood risk in the Huai River basin, China. *Journal of Hydrology (Amsterdam)*, 567, 393–404. [link](https://doi.org/10.1016/j.jhydrol.2018.10.031)
+17. Zhang, Q., **Li, J.**, Gu, X., & Shi, P. (2018). Is the Pearl River basin, China, drying or wetting? Seasonal variations, causes and implications. *Global and Planetary Change*, 166, 48–61. [link](https://doi.org/10.1016/j.gloplacha.2018.04.005)
+18. Chen, Y. D., **Li, J.**, Zhang, Q., & Gu, X. (2018). Projected changes in seasonal temperature extremes across China from 2017 to 2100 based on statistical downscaling. *Global and Planetary Change*, 166, 30–40. [link](https://doi.org/10.1016/j.gloplacha.2018.04.002)
+19. **Li, J.**, Chen, Y. D., Gan, T. Y., & Lau, N.-C. (2018). Elevated increases in human-perceived temperature under climate warming. *Nature Climate Change*, 8(1), 43–47. [link](https://doi.org/10.1038/s41558-017-0036-2)
+20. Zhang, Q., Gu, X., **Li, J.**, Shi, P., & Singh, V. P. (2018). The Impact of Tropical Cyclones on Extreme Precipitation over Coastal and Inland Areas of China and Its Association to ENSO. *Journal of Climate*, 31(5), 1865–1880. [link](https://doi.org/10.1175/JCLI-D-17-0474.1)
+21. Liu, J., Zhang, Q., Zhang, Y., Chen, X., **Li, J.**, & Aryal, S. K. (2017). Deducing Climatic Elasticity to Assess Projected Climate Change Impacts on Streamflow Change across China. *Journal of Geophysical Research: Atmospheres*, 122(19), 10,228–10,245. [link](https://doi.org/10.1002/2017JD026701)
 
 # Conference Papers

@@ -42,28 +42,28 @@ toc: true
 * Role: Principal Investigator
 * Source: Hong Kong Baptist University
 * Period: 8/2018-1/2020
-* Amount: HK$99,400
+* Amount: HKD99,400
 
 3. Co-occurrence of droughts and heat waves under the changing climate in the Pearl River Basin: Variations, interactions and impacts.
 * Role: Principal Investigator
 * Source: Research Grants Council of Hong Kong
 * Period: 9/2016-8/2019
-* Amount: HK$ 611,985
+* Amount: HKD611,985
 
 4. Characterizing changes in precipitation extremes induced by tropical cycles over the Southern China.
 * Role: Principal Investigator
 * Source: Hong Kong Baptist University
 * Period: 1/2018-12/2018
-* Amount: HK$ 49,520
+* Amount: HKD49,520
 
 5. Evaluation of variations of drought-heat wave coupling based on soil moisture in the Pearl River Basin.
 * Role: Principal Investigator
 * Source: Hong Kong Baptist University
 * Period: 3/2016-8/2017
-* Amount: HK$ 99,860
+* Amount: HKD99,860
 
 6. Achieving sustainable urban park management in Hong Kong through the development of indicators.
 * Role: Co-Investigator
 * Source: Research Grants Council of Hong Kong
 * Period: 8/2016-7/2017
-* Amount: HK$ 340,786
+* Amount: HKD340,786
